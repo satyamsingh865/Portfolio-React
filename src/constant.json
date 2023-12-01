@@ -1,0 +1,21 @@
+{
+
+  "projects": [
+    {
+      "title": "Blog App",
+      "image": "./images/Blog.png",
+      "desc": "Create and Post Blog App",
+      "skills": ["React", "CSS"],
+      "github": "https://github.com/satyamsingh865/BlogApp"
+    },
+    {
+      "title": "Discord Bot",
+      "image": "./images/discord bot.png",
+      "desc": "A Discord-bot with multiple built-in features",
+      "skills": ["React", "CSS"],
+      "github": " https://github.com/satyamsingh865/age-calculator"
+      
+    }
+    
+  ]
+}
